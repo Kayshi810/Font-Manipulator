@@ -37,6 +37,6 @@ background('#f5cac1');
 
   document.getElementById("font_size").innerHTML = "Font size of the text will be = " + difference +"px";
 textSize(difference);
-fill('#FFE787');
+fill('#f71e0f');
 text("Kayshi", 50, 400);
 }
